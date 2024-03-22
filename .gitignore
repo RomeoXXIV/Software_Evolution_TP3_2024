@@ -1,0 +1,34 @@
+resources/*/
+stored-data.txt
+
+# Python
+*.py[cod]
+__pycache__/
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Linux-specific files (add your files here if needed)
+
+# PyCharm
+.idea/
+*.iml
+
+# Visual Studio Code
+.vscode/
+
+# Virtualenv
+env/
+venv/
+.env
+.venv
+
+# Other files
+*.log
+*.sqlite
